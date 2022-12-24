@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Bippy</string>
+    <string name="skip_here">Skip here</string>
+    <string name="welcome">Welcome to Bippy!</string>
+    <string name="enter_phone">Enter your phone number</string>
+    <string name="xx_xxx_xx_xx" tools:ignore="TypographyDashes">00-000-00-00</string>
+    <string name="todo">TODO</string>
+    <string name="category">Category</string>
+    <string name="sign_in">Sign in</string>
+    <string name="help">Help?</string>
+    <string name="login">LOG IN</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_5">0</string>
+    <string name="i_dont_recive_code">I dont recive code</string>
+    <string name="otp_sent">OTP Sent!</string>
+    <string name="enter_the_4_dight_code">Enter the 4-dight code sent to your phone number</string>
+    <string name="continuee">Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="car_number">Car Number</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="find_best_services_for_you">Find Best services for you!</string>
+    <string name="baku_aze">Baku,Aze</string>
+    <string name="find_best_ser">Find Best search</string>
+    <string name="rating">Rating</string>
+    <string name="nurgun_moto">Nurgun Motors</string>
+    <string name="avtomobil_t_miri">Avtomobil təmiri</string>
+    <string name="call">Call</string>
+    <string name="motor">Motor</string>
+    <string name="filter">Filter</string>
+    <string name="lorem">Lorem</string>
+</resources>
